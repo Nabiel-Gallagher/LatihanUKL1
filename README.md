@@ -1,4 +1,4 @@
-# MudahSoal1 – Program Biaya Pengiriman
+# Program Biaya Pengiriman
 
 Program sederhana berbasis Java untuk menghitung **total biaya pengiriman paket** berdasarkan jarak, ukuran, dan berat.
 
